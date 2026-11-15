@@ -1,6 +1,6 @@
 # India Tourist Arrivals: Seasonality & 2014 Forecast
 
-A time series analysis of monthly foreign tourist arrivals to India (2001–2013), used to understand the tourism season and forecast 2014 arrivals for staff planning.
+A time series analysis of monthly foreign tourist arrivals to India (2001–2013), used to understand the tourism season and forecast 2014 arrivals for staff planning. This is an example of a project completed in my Competing with Analytics course. 
 
 ## Tools
 Python (pandas, NumPy, statsmodels, matplotlib) in Google Colab
